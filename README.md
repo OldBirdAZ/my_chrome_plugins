@@ -8,5 +8,11 @@
 
 ## cc_prevent_redirect.zip
 - neurips.cc、icml.cc、iclr.cc
-- Prevents from automatically redirecting to detail page when you click or copy the paper title on these sites
+- Prevents current page(papers list) from automatically redirecting to detail page when you click or copy the paper title on these sites
+  - e.g. https://icml.cc/Conferences/2019/Schedule?type=Poster 
 - <img src="imgs/cc_prevent_redirecting.jpg" width=450px height=150px />
+
+## kaomanfen_show_zh_explanations.zip
+- KaoManFen website, show all CN explanations for listening individually.
+- <img src="imgs/kaomanfen_1.png" width=450px height=150px />
+
